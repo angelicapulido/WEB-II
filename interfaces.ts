@@ -40,6 +40,6 @@ function imprimirEtiqueta(etiqueta: { label: string }) {
             readonly y: number; 
         }
         
-        let puntol: Punto = { x: 10, y: 20};
-            puntol.x = 20; 
+        let punto1: Punto2 = { x: 10, y: 20 };
+            punto1.x = 20; 
             
